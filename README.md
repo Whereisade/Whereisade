@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Fawaz Adeleke Adewuyi
+- 👀 I’m interested in Frontend technolgies, Design with figma and Backend with Django
+- 🌱 I’m currently learning Mobile app development
+- 💞️ I’m looking to collaborate on Web applications
+- 📫 How to reach me fawazadewuyi23@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I really love solving complex problems
