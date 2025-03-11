@@ -25,8 +25,8 @@
 ### 📫 How to Reach Me
 
 - Email: [fawazadewuyi23@gmail.com](mailto:fawazadewuyi23@gmail.com)
-- LinkedIn: [linkedin.com/in/fawaz-adewuyi](#) *(Add your actual link here if you have one)*
-- Portfolio: [Coming Soon or add your portfolio link]*
+- LinkedIn: [linkedin.com/in/fawaz-adewuyi](#) 
+- Portfolio: [Coming Soon]*
 
 ---
 
