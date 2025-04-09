@@ -26,7 +26,7 @@
 
 - Email: [fawazadewuyi23@gmail.com](mailto:fawazadewuyi23@gmail.com)
 - LinkedIn: [linkedin.com/in/fawaz-adewuyi](#) 
-- Portfolio: [Coming Soon]*
+- Portfolio: [https://fawaz-portfolio-ashy.vercel.app/]
 
 ---
 
